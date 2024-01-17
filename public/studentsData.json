@@ -1,0 +1,274 @@
+[
+  {
+    "id": 1,
+    "class_id": 1,
+    "image": "/src/assets/avatar-1.png",
+    "name": "Smith",
+    "scores": "A+",
+    "percentage": "80%",
+    "class": "one"
+  },
+  {
+    "id": 2,
+    "class_id": 2,
+    "image": "/src/assets/avatar-1.png",
+    "name": "Johnson",
+    "scores": "B",
+    "percentage": "75%",
+    "class": "one"
+  },
+  {
+    "id": 3,
+    "class_id": 3,
+    "image": "/src/assets/avatar-1.png",
+    "name": "Williams",
+    "scores": "A",
+    "percentage": "88%",
+    "class": "one"
+  },
+  {
+    "id": 4,
+    "class_id": 4,
+    "image": "/src/assets/avatar-1.png",
+    "name": "Jones",
+    "scores": "A-",
+    "percentage": "78%",
+    "class": "one"
+  },
+  {
+    "id": 5,
+    "class_id": 5,
+    "image": "/src/assets/avatar-1.png",
+    "name": "Brown",
+    "scores": "B+",
+    "percentage": "82%",
+    "class": "one"
+  },
+  {
+    "id": 6,
+    "class_id": 6,
+    "image": "/src/assets/avatar-1.png",
+    "name": "Davis",
+    "scores": "A",
+    "percentage": "85%",
+    "class": "one"
+  },
+  {
+    "id": 7,
+    "class_id": 7,
+    "image": "/src/assets/avatar-1.png",
+    "name": "Miller",
+    "scores": "B-",
+    "percentage": "70%",
+    "class": "one"
+  },
+  {
+    "id": 8,
+    "class_id": 8,
+    "image": "/src/assets/avatar-1.png",
+    "name": "Wilson",
+    "scores": "A+",
+    "percentage": "92%",
+    "class": "one"
+  },
+  {
+    "id": 9,
+    "class_id": 9,
+    "image": "/src/assets/avatar-1.png",
+    "name": "Moore",
+    "scores": "C+",
+    "percentage": "65%",
+    "class": "one"
+  },
+  {
+    "id": 10,
+    "class_id": 10,
+    "image": "/src/assets/avatar-1.png",
+    "name": "Taylor",
+    "scores": "A-",
+    "percentage": "79%",
+    "class": "one"
+  },
+
+  {
+    "id": 11,
+    "class_id": 1,
+    "image": "/src/assets/avatar-1.png",
+    "name": "Anderson",
+    "scores": "B+",
+    "percentage": "87%",
+    "class": "two"
+  },
+  {
+    "id": 12,
+    "class_id": 2,
+    "image": "/src/assets/avatar-1.png",
+    "name": "Thomas",
+    "scores": "A",
+    "percentage": "91%",
+    "class": "two"
+  },
+  {
+    "id": 13,
+    "class_id": 3,
+    "image": "/src/assets/avatar-1.png",
+    "name": "Harris",
+    "scores": "C",
+    "percentage": "68%",
+    "class": "two"
+  },
+  {
+    "id": 14,
+    "class_id": 4,
+    "image": "/src/assets/avatar-1.png",
+    "name": "Jackson",
+    "scores": "A-",
+    "percentage": "79%",
+    "class": "two"
+  },
+  {
+    "id": 15,
+    "class_id": 5,
+    "image": "/src/assets/avatar-1.png",
+    "name": "White",
+    "scores": "B",
+    "percentage": "74%",
+    "class": "two"
+  },
+  {
+    "id": 16,
+    "class_id": 6,
+    "image": "/src/assets/avatar-1.png",
+    "name": "Martin",
+    "scores": "A+",
+    "percentage": "94%",
+    "class": "two"
+  },
+  {
+    "id": 17,
+    "class_id": 7,
+    "image": "/src/assets/avatar-1.png",
+    "name": "Thompson",
+    "scores": "B-",
+    "percentage": "72%",
+    "class": "two"
+  },
+  {
+    "id": 18,
+    "class_id": 8,
+    "image": "/src/assets/avatar-1.png",
+    "name": "Garcia",
+    "scores": "A",
+    "percentage": "86%",
+    "class": "two"
+  },
+  {
+    "id": 19,
+    "class_id": 9,
+    "image": "/src/assets/avatar-1.png",
+    "name": "Clark",
+    "scores": "C+",
+    "percentage": "63%",
+    "class": "two"
+  },
+  {
+    "id": 20,
+    "class_id": 10,
+    "image": "/src/assets/avatar-1.png",
+    "name": "Lewis",
+    "scores": "A-",
+    "percentage": "77%",
+    "class": "two"
+  },
+
+  {
+    "id": 21,
+    "class_id": 1,
+    "image": "/src/assets/avatar-1.png",
+    "name": "Cooper",
+    "scores": "B+",
+    "percentage": "88%",
+    "class": "three"
+  },
+  {
+    "id": 22,
+    "class_id": 2,
+    "image": "/src/assets/avatar-1.png",
+    "name": "Ward",
+    "scores": "A-",
+    "percentage": "78%",
+    "class": "three"
+  },
+  {
+    "id": 23,
+    "class_id": 3,
+    "image": "/src/assets/avatar-1.png",
+    "name": "Evans",
+    "scores": "C",
+    "percentage": "70%",
+    "class": "three"
+  },
+  {
+    "id": 24,
+    "class_id": 4,
+    "image": "/src/assets/avatar-1.png",
+    "name": "Baker",
+    "scores": "A",
+    "percentage": "90%",
+    "class": "three"
+  },
+  {
+    "id": 25,
+    "class_id": 5,
+    "image": "/src/assets/avatar-1.png",
+    "name": "Reed",
+    "scores": "B",
+    "percentage": "75%",
+    "class": "three"
+  },
+  {
+    "id": 26,
+    "class_id": 6,
+    "image": "/src/assets/avatar-1.png",
+    "name": "Morgan",
+    "scores": "A+",
+    "percentage": "93%",
+    "class": "three"
+  },
+  {
+    "id": 27,
+    "class_id": 7,
+    "image": "/src/assets/avatar-1.png",
+    "name": "Rogers",
+    "scores": "B-",
+    "percentage": "72%",
+    "class": "three"
+  },
+  {
+    "id": 28,
+    "class_id": 8,
+    "image": "/src/assets/avatar-1.png",
+    "name": "Stewart",
+    "scores": "A",
+    "percentage": "85%",
+    "class": "three"
+  },
+  {
+    "id": 29,
+    "class_id": 9,
+    "image": "/src/assets/avatar-1.png",
+    "name": "Fisher",
+    "scores": "C+",
+    "percentage": "66%",
+    "class": "three"
+  },
+  {
+    "id": 30,
+    "class_id": 10,
+    "image": "/src/assets/avatar-1.png",
+    "name": "Simmons",
+    "scores": "A-",
+    "percentage": "79%",
+    "class": "three"
+  }
+]
