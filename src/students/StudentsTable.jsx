@@ -1,6 +1,6 @@
-import studentsData from "../../public/studentsData.json";
 import ClassTitle from "./ClassTitle.jsx.jsx";
 import Row from "./Row.jsx";
+import studentsData from "/public/studentsData.json";
 
 export default function StudentsTable() {
   // load all students data to filter class wise (class one, two & three)

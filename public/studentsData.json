@@ -2,7 +2,7 @@
   {
     "id": 1,
     "class_id": 1,
-    "image": "/src/assets/avatars/avatar-1.png",
+    "image": "/avatar-1.png",
     "name": "Smith",
     "scores": "A+",
     "percentage": "80%",
