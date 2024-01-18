@@ -2,7 +2,7 @@
   {
     "id": 1,
     "class_id": 1,
-    "image": "/src/assets/avatar-1.png",
+    "image": "/src/assets/avatars/avatar-1.png",
     "name": "Smith",
     "scores": "A+",
     "percentage": "80%",
@@ -11,7 +11,7 @@
   {
     "id": 2,
     "class_id": 2,
-    "image": "/src/assets/avatar-1.png",
+    "image": "/src/assets/avatars/avatar-2.png",
     "name": "Johnson",
     "scores": "B",
     "percentage": "75%",
@@ -20,7 +20,7 @@
   {
     "id": 3,
     "class_id": 3,
-    "image": "/src/assets/avatar-1.png",
+    "image": "/src/assets/avatars/avatar-3.png",
     "name": "Williams",
     "scores": "A",
     "percentage": "88%",
@@ -29,7 +29,7 @@
   {
     "id": 4,
     "class_id": 4,
-    "image": "/src/assets/avatar-1.png",
+    "image": "/src/assets/avatars/avatar-4.png",
     "name": "Jones",
     "scores": "A-",
     "percentage": "78%",
@@ -38,7 +38,7 @@
   {
     "id": 5,
     "class_id": 5,
-    "image": "/src/assets/avatar-1.png",
+    "image": "/src/assets/avatars/avatar-5.png",
     "name": "Brown",
     "scores": "B+",
     "percentage": "82%",
@@ -47,7 +47,7 @@
   {
     "id": 6,
     "class_id": 6,
-    "image": "/src/assets/avatar-1.png",
+    "image": "/src/assets/avatars/avatar-6.png",
     "name": "Davis",
     "scores": "A",
     "percentage": "85%",
@@ -56,7 +56,7 @@
   {
     "id": 7,
     "class_id": 7,
-    "image": "/src/assets/avatar-1.png",
+    "image": "/src/assets/avatars/avatar-7.png",
     "name": "Miller",
     "scores": "B-",
     "percentage": "70%",
@@ -65,7 +65,7 @@
   {
     "id": 8,
     "class_id": 8,
-    "image": "/src/assets/avatar-1.png",
+    "image": "/src/assets/avatars/avatar-8.png",
     "name": "Wilson",
     "scores": "A+",
     "percentage": "92%",
@@ -74,7 +74,7 @@
   {
     "id": 9,
     "class_id": 9,
-    "image": "/src/assets/avatar-1.png",
+    "image": "/src/assets/avatars/avatar-9.png",
     "name": "Moore",
     "scores": "C+",
     "percentage": "65%",
@@ -83,7 +83,7 @@
   {
     "id": 10,
     "class_id": 10,
-    "image": "/src/assets/avatar-1.png",
+    "image": "/src/assets/avatars/avatar-10.png",
     "name": "Taylor",
     "scores": "A-",
     "percentage": "79%",
@@ -93,7 +93,7 @@
   {
     "id": 11,
     "class_id": 1,
-    "image": "/src/assets/avatar-1.png",
+    "image": "/src/assets/avatars/avatar-1.png",
     "name": "Anderson",
     "scores": "B+",
     "percentage": "87%",
@@ -102,7 +102,7 @@
   {
     "id": 12,
     "class_id": 2,
-    "image": "/src/assets/avatar-1.png",
+    "image": "/src/assets/avatars/avatar-2.png",
     "name": "Thomas",
     "scores": "A",
     "percentage": "91%",
@@ -111,7 +111,7 @@
   {
     "id": 13,
     "class_id": 3,
-    "image": "/src/assets/avatar-1.png",
+    "image": "/src/assets/avatars/avatar-3.png",
     "name": "Harris",
     "scores": "C",
     "percentage": "68%",
@@ -120,7 +120,7 @@
   {
     "id": 14,
     "class_id": 4,
-    "image": "/src/assets/avatar-1.png",
+    "image": "/src/assets/avatars/avatar-4.png",
     "name": "Jackson",
     "scores": "A-",
     "percentage": "79%",
@@ -129,7 +129,7 @@
   {
     "id": 15,
     "class_id": 5,
-    "image": "/src/assets/avatar-1.png",
+    "image": "/src/assets/avatars/avatar-5.png",
     "name": "White",
     "scores": "B",
     "percentage": "74%",
@@ -138,7 +138,7 @@
   {
     "id": 16,
     "class_id": 6,
-    "image": "/src/assets/avatar-1.png",
+    "image": "/src/assets/avatars/avatar-6.png",
     "name": "Martin",
     "scores": "A+",
     "percentage": "94%",
@@ -147,7 +147,7 @@
   {
     "id": 17,
     "class_id": 7,
-    "image": "/src/assets/avatar-1.png",
+    "image": "/src/assets/avatars/avatar-7.png",
     "name": "Thompson",
     "scores": "B-",
     "percentage": "72%",
@@ -156,7 +156,7 @@
   {
     "id": 18,
     "class_id": 8,
-    "image": "/src/assets/avatar-1.png",
+    "image": "/src/assets/avatars/avatar-8.png",
     "name": "Garcia",
     "scores": "A",
     "percentage": "86%",
@@ -165,7 +165,7 @@
   {
     "id": 19,
     "class_id": 9,
-    "image": "/src/assets/avatar-1.png",
+    "image": "/src/assets/avatars/avatar-9.png",
     "name": "Clark",
     "scores": "C+",
     "percentage": "63%",
@@ -174,7 +174,7 @@
   {
     "id": 20,
     "class_id": 10,
-    "image": "/src/assets/avatar-1.png",
+    "image": "/src/assets/avatars/avatar-10.png",
     "name": "Lewis",
     "scores": "A-",
     "percentage": "77%",
@@ -184,7 +184,7 @@
   {
     "id": 21,
     "class_id": 1,
-    "image": "/src/assets/avatar-1.png",
+    "image": "/src/assets/avatars/avatar-1.png",
     "name": "Cooper",
     "scores": "B+",
     "percentage": "88%",
@@ -193,7 +193,7 @@
   {
     "id": 22,
     "class_id": 2,
-    "image": "/src/assets/avatar-1.png",
+    "image": "/src/assets/avatars/avatar-2.png",
     "name": "Ward",
     "scores": "A-",
     "percentage": "78%",
@@ -202,7 +202,7 @@
   {
     "id": 23,
     "class_id": 3,
-    "image": "/src/assets/avatar-1.png",
+    "image": "/src/assets/avatars/avatar-3.png",
     "name": "Evans",
     "scores": "C",
     "percentage": "70%",
@@ -211,7 +211,7 @@
   {
     "id": 24,
     "class_id": 4,
-    "image": "/src/assets/avatar-1.png",
+    "image": "/src/assets/avatars/avatar-4.png",
     "name": "Baker",
     "scores": "A",
     "percentage": "90%",
@@ -220,7 +220,7 @@
   {
     "id": 25,
     "class_id": 5,
-    "image": "/src/assets/avatar-1.png",
+    "image": "/src/assets/avatars/avatar-5.png",
     "name": "Reed",
     "scores": "B",
     "percentage": "75%",
@@ -229,7 +229,7 @@
   {
     "id": 26,
     "class_id": 6,
-    "image": "/src/assets/avatar-1.png",
+    "image": "/src/assets/avatars/avatar-6.png",
     "name": "Morgan",
     "scores": "A+",
     "percentage": "93%",
@@ -238,7 +238,7 @@
   {
     "id": 27,
     "class_id": 7,
-    "image": "/src/assets/avatar-1.png",
+    "image": "/src/assets/avatars/avatar-7.png",
     "name": "Rogers",
     "scores": "B-",
     "percentage": "72%",
@@ -247,7 +247,7 @@
   {
     "id": 28,
     "class_id": 8,
-    "image": "/src/assets/avatar-1.png",
+    "image": "/src/assets/avatars/avatar-8.png",
     "name": "Stewart",
     "scores": "A",
     "percentage": "85%",
@@ -256,7 +256,7 @@
   {
     "id": 29,
     "class_id": 9,
-    "image": "/src/assets/avatar-1.png",
+    "image": "/src/assets/avatars/avatar-9.png",
     "name": "Fisher",
     "scores": "C+",
     "percentage": "66%",
@@ -265,7 +265,7 @@
   {
     "id": 30,
     "class_id": 10,
-    "image": "/src/assets/avatar-1.png",
+    "image": "/src/assets/avatars/avatar-10.png",
     "name": "Simmons",
     "scores": "A-",
     "percentage": "79%",

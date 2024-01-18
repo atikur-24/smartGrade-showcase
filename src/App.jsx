@@ -1,15 +1,15 @@
 import "./App.css";
+import HeroSection from "./HeroSection";
 import Footer from "./components/Footer";
-import Hero from "./components/Hero";
 import Navbar from "./components/Navbar";
-import Students from "./components/Students";
+import Students from "./students/Students";
 export default function App() {
   return (
     <>
       <Navbar />
-      <Hero />
-      <Footer />
+      <HeroSection />
       <Students />
+      <Footer />
     </>
   );
 }
